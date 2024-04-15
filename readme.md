@@ -1,5 +1,5 @@
 # Password Generator 🔑 🔑 🔑 🔑
-- This is a simple Python script that generates a random password based on user specifications. The generated password includes a mix of letters (uppercase), numbers, and symbols.
+- This is a simple Python script that generates a random password based on user specifications. The generated password includes a mix of letters (uppercase), numbers, and symbols..
 
 ## How it Works
 - The script prompts the user to input the following:
